@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
 
     private void love(){}
 
-    private void lalal(){}
 
+   
 
 }
